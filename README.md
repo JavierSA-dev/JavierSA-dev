@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JavierSA-dev
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning JavaScript, PHP and CSS
+- 🌱 I’m currently learning JavaScript, Laravel and CSS 
 
 <!---
 JavierSA-dev/JavierSA-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
